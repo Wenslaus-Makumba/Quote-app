@@ -3,7 +3,8 @@
 
 # Project Description
 
-This is a web app for  Quotes Manager. It's comprised of a  display dection that shows all the quotes saved on the system, alongside a form to add more quotes to the system. The layout is friendly to use and basic/self-explanatory to a new user.
+This is a web app for  Quotes Manager. It's comprised of a  display dection that shows all the quotes saved on the system, alongside a form to add more quotes to the system. 
+
 
 # Behaviour Driven Development
 The applicaton has various conmpents that work together to achieve a view,some of the components are:
@@ -41,7 +42,28 @@ Angular cli
 
 ### Live link for the application
  
-
+https://wenslaus-makumba.github.io/Quote-app/
 
 ### License
-App is licenced by [MIT.licensing](LICENCE.txt)
+ 
+MIT License
+
+Copyright (c) 2020 Wenslaus Makumba
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
